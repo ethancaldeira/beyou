@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922715338899",
+    "project_id": "beyou-acec1",
+    "storage_bucket": "beyou-acec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922715338899:android:740a15fde43f9f7f1cb566",
+        "android_client_info": {
+          "package_name": "com.example.beyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922715338899-97e9guq8uhbfm6brqme178ddk79mbn0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYHt_k4zr5IE3VEwvJ26KyMPKnxPG5ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922715338899-97e9guq8uhbfm6brqme178ddk79mbn0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

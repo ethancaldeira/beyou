@@ -1,0 +1,11 @@
+framework module flutter_audio_recorder2 {
+  umbrella header "flutter_audio_recorder2-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_audio_recorder2.Swift {
+    header "flutter_audio_recorder2-Swift.h"
+    requires objc
+}
