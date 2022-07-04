@@ -1,6 +1,9 @@
-# beyou
+<p1>BEYOU</p1>
+An Interactive Virtual Companion to Support and Enhance Mental Wellbeing
 
-A new Flutter project.
+This project aims to create a mobile application that will make users aware of their mental wellbeing and help users deal with any stress they might face. The application will guide users through becoming more mindful via a variety of different means. Simplifying these methods by using a virtual companion to increase user engagement, so that all are able to get the benefits.
+
+
 
 ## Getting Started
 
